@@ -1,0 +1,3 @@
+truck_1#b,e
+truck_2#f,c,d
+58.0
