@@ -1,4 +1,4 @@
-import numpy as np # type: ignore
+import numpy as np
 
 def parse_input(file_path):
     with open(file_path, 'r') as file:
